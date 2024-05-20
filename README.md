@@ -5,10 +5,8 @@ I thrive on overcoming obstacles, and in my free time, I enjoy going to the gym,
 
 ## Main Techs
 - Java
-  
-<hr />
 
-### Contact: 
+## Contact: 
 E-mail: nicolas.docolas1804@gmail.com<br>
 Phone: +55 (51) 9 9175-1193<br>
 LinkedIn: https://www.linkedin.com/in/nicolasdocolas/
