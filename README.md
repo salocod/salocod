@@ -1,7 +1,7 @@
 # Hey there 👋
 I'm Nicolas Fonseca Docolas, a developer who's **always learning** and passionate about the tech world!
 I thrive on overcoming obstacles, and in my free time, I enjoy going to the gym, programming, gaming, and watching exciting series. 
-*Driven by building scalable and well-engineered solutions.*
+<hr>*Driven by building scalable and well-engineered solutions.*
  
 ## Interested
 - Algorithms
